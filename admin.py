@@ -86,4 +86,3 @@ admin.site.register(Book, BookAdmin)
 admin.site.register(BooksImage)
 admin.site.register(Order, OrderAdmin)
 admin.site.register(Customer, CustomerAdmin)
-
